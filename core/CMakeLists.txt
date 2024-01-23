@@ -1,0 +1,1 @@
+add_library(sylacore cpu.c)
