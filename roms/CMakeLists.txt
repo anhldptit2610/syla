@@ -1,0 +1,1 @@
+add_executable(merge_roms merge_roms.c)
